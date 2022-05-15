@@ -1,0 +1,43 @@
+.profile {
+  height: 100%;
+  /* width: 80%; */
+  width: 80vw;
+  background-color: white;
+  padding: 3rem;
+  border-radius: 1em;
+  display: flex;
+  flex-direction: column;
+}
+
+h1,
+.compelection-data {
+  margin-bottom: 1rem;
+}
+
+.compelection-data {
+  display: flex;
+  align-items: center;
+}
+
+.progress-bar {
+  font-size: small;
+  font-weight: bold;
+  width: 50px;
+}
+
+.person-details {
+  padding: 1rem;
+}
+
+.person-details li {
+  display: flex;
+  margin-bottom: 0.5rem;
+}
+
+.label {
+  width: 100px;
+}
+
+.btn {
+  margin-bottom: 0.5rem;
+}
