@@ -42,7 +42,7 @@ app.post("/login", async (req, res) => {
     } catch (err) {
         res.json({ status: "error", user: false });
         console.log(err);
-        console.log("--smtng went fucked up");
+        console.log("--smtng went wrong");
     }
 });
 
