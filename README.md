@@ -1,6 +1,7 @@
 # teachers-management-system
 
-# for installing the dependencies
+<h3>dependencies</h3>
+<br/>
 cd into tms_server then npm install 
-\n
+<br/>
 cd into teachers-management-system then npm install 
